@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 bla bla
 alguma outra coisa
 outra coisa
+=======
+bla bla
+>>>>>>> parent of 9e90510 (aprimoramento do texto)
